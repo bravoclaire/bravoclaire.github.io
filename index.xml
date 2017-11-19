@@ -24,6 +24,15 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>My Second Post</title>
+      <link>http://bravoclaire.github.io/post/my-second-post/</link>
+      <pubDate>Sun, 19 Nov 2017 17:22:43 -0500</pubDate>
+      
+      <guid>http://bravoclaire.github.io/post/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>http://bravoclaire.github.io/post/my-first-post/</link>
       <pubDate>Sun, 19 Nov 2017 16:21:54 -0500</pubDate>
