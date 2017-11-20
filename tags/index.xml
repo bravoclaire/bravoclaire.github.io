@@ -11,5 +11,14 @@
 	<atom:link href="http://bravoclaire.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>目标</title>
+      <link>http://bravoclaire.github.io/tags/%E7%9B%AE%E6%A0%87/</link>
+      <pubDate>Sun, 19 Nov 2017 21:56:37 -0500</pubDate>
+      
+      <guid>http://bravoclaire.github.io/tags/%E7%9B%AE%E6%A0%87/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

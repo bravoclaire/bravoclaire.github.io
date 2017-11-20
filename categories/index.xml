@@ -11,5 +11,14 @@
 	<atom:link href="http://bravoclaire.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>随笔</title>
+      <link>http://bravoclaire.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sun, 19 Nov 2017 21:56:37 -0500</pubDate>
+      
+      <guid>http://bravoclaire.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
