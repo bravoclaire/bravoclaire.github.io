@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Yi</copyright>
-    <lastBuildDate>Sun, 19 Nov 2017 21:56:37 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://bravoclaire.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>日本旅行游记</title>
+      <link>http://bravoclaire.github.io/post/2018-03-19/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bravoclaire.github.io/post/2018-03-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>一些小目标</title>
@@ -19,15 +28,6 @@
       
       <guid>http://bravoclaire.github.io/post/2017-11-09/</guid>
       <description>这个周末一直在宅，就搭了这个简单的小网站。以后我的小心事小随想小目标小总结可能就发到这个没什么人知晓的角落啦。 最近接了db的offer，是自</description>
-    </item>
-    
-    <item>
-      <title>日本旅行游记</title>
-      <link>http://bravoclaire.github.io/post/2018-03-19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bravoclaire.github.io/post/2018-03-19/</guid>
-      <description></description>
     </item>
     
   </channel>
