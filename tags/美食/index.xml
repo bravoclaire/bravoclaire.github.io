@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>美食 on 边美丽的博客</title>
+    <link>http://bravoclaire.github.io/tags/%E7%BE%8E%E9%A3%9F/</link>
+    <description>Recent content in 美食 on 边美丽的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Yi</copyright>
+    
+	<atom:link href="http://bravoclaire.github.io/tags/%E7%BE%8E%E9%A3%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日本旅行游记</title>
+      <link>http://bravoclaire.github.io/post/2018-03-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bravoclaire.github.io/post/2018-03-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
